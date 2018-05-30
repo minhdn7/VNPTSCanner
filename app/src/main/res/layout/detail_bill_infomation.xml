@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="Trường"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/colorBlack"
+        android:paddingTop="@dimen/padding_6"
+        android:id="@+id/txtLabel" />
+
+    <TextView
+        android:text="Giá trị"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorBlack"
+        android:paddingTop="@dimen/padding_1"
+        android:paddingBottom="@dimen/padding_6"
+        android:id="@+id/txtValue" />
+</LinearLayout>

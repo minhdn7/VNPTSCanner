@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:clickable="true"
+    android:background="@color/colorWhite"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="@string/tiengAnh"
+        android:textColor="@color/colorBlack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:gravity="center"
+        android:paddingBottom="@dimen/padding_4"
+        android:paddingTop="@dimen/padding_4"
+        android:id="@+id/txtTiengAnh" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="@color/colorGrey"/>
+    <TextView
+        android:text="@string/tiengViet"
+        android:textSize="18dp"
+        android:textColor="@color/colorBlack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="@dimen/padding_4"
+        android:paddingTop="@dimen/padding_4"
+        android:id="@+id/txtTiengViet" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="@color/colorGrey"/>
+    <TextView
+        android:text="@string/huy"
+        android:textSize="18dp"
+        android:textColor="@color/colorBlack"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/padding_4"
+        android:paddingTop="@dimen/padding_4"
+        android:id="@+id/txtHuy" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="@color/colorGrey"/>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#19548f</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlueGrey">#CFD8DC</color>
+    <color name="colorGrey">#E0E0E0</color>
+    <color name="colorDeepOrange">#FF7043</color>
+    <color name="colorGrey800">#757575</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorAccountHeader">#212429</color>
+    <color name="colorAccountName">#fcfcfc</color>
+    <color name="colorAccountInfo">#979a9f</color>
+
+    <color name="GRAY_COLOR">#25252a</color>
+    <color name="BLUE_COLOR">#005aac</color>
+    <color name="WHITE_COLOR">#e0e6eb</color>
+    <color name="NAV_COLOR">#f5f6f8</color>
+</resources>
